@@ -1,0 +1,21 @@
+{
+  "name": "@z-os/ui",
+  "version": "4.2.0",
+  "description": "zOS UI Components - Window, dock, menubar",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "files": ["src", "README.md"],
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@hanzo/ui": "^1.0.0",
+    "lucide-react": "^0.300.0"
+  },
+  "keywords": ["zos", "ui", "window", "dock", "menubar", "macos"],
+  "author": "Hanzo AI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-os4/ui.git"
+  }
+}
